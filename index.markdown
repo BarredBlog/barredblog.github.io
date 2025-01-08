@@ -5,9 +5,4 @@
 layout: home
 ---
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
-carousels:
-  - images: 
-    - image: /Media/IMG_8183.jpg
-    - image: /Media/IMG_9209.jpg
-    - image: /Media/IMG_7686.jpg
 {% include image-gallery.html folder="/Media" %}
