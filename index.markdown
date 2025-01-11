@@ -15,7 +15,5 @@ carousels:
     - image: /Media/WhiteBreastedNuthatch1.jpg
     - image: /Media/Cardinal1.jpg
     - image: /Media/RedBelliedWoodpecker6.jpg
-menus:
-  header:
 ---
 {% include carousel.html height="66" unit="%" duration="7" number="1" %}
