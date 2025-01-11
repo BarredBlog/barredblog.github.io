@@ -17,6 +17,5 @@ carousels:
     - image: /Media/RedBelliedWoodpecker6.jpg
 menus:
   header:
-    weight: 1
 ---
 {% include carousel.html height="66" unit="%" duration="7" number="1" %}
