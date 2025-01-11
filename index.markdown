@@ -17,4 +17,3 @@ carousels:
     - image: /Media/RedBelliedWoodpecker6.jpg
 ---
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
-{% include image-gallery.html folder="/Media" %}
