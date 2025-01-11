@@ -15,10 +15,8 @@ carousels:
     - image: /Media/WhiteBreastedNuthatch1.jpg
     - image: /Media/Cardinal1.jpg
     - image: /Media/RedBelliedWoodpecker6.jpg
-title: Home
 menus:
   header:
-    title: Home
     weight: 1
 ---
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
