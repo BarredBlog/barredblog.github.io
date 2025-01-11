@@ -1,6 +1,5 @@
 ---
-title: gallery
+title: Gallery
 menus: header
-exclude: true
 ---
 {% include image-gallery.html folder="/Media" %}
