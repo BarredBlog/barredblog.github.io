@@ -15,7 +15,7 @@ carousels:
     - image: /Media/WhiteBreastedNuthatch1.jpg
     - image: /Media/Cardinal1.jpg
     - image: /Media/RedBelliedWoodpecker6.jpg
-title: Homepage
+title: Home
 menus:
   header:
     title: Home
