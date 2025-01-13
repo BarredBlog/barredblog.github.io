@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Automating Wildlife Photography" 
-date:   2025-01-06 21:43:34 -0600
-categories: jekyll update
+date:   2025-01-12 21:43:34 -0600
+categories: automation photography birds 
 carousels:
   - images: 
     - image: /Assets/Camera.jpg
