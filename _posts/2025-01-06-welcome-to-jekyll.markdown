@@ -7,7 +7,7 @@ carousels:
   - images: 
     - image: /Assets/Camera.jpg
     - image: /Assets/Setup.jpg
-  - examples: 
+  - images: 
     - image: /Assets/Bluejay1.jpg
     - image: /Assets/Bluejay2.jpg
 ---
