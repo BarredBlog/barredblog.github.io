@@ -7,6 +7,9 @@ carousels:
   - images: 
     - image: /Assets/Camera.jpg
     - image: /Assets/Setup.jpg
+  - examples: 
+    - image: /Assets/Bluejay1.jpg
+    - image: /Assets/Bluejay2.jpg
 ---
 When I am at work on a bright sunny day, there is nothing I'd rather be doing than sitting outside and taking pictures. Luckily, with the power of technology I can do both!
 
@@ -16,14 +19,11 @@ Above is a motion activated camera trigger from camtraptions. If we pair this wi
 
 {% include carousel.html height="66" unit="%" duration="7" number="1" %}
 
-How it works
+The concept of what we are doing here is simple. Set up your motion sensor in a place you know your target will approach, when it detects motion it will trigger your camera to take pictures. 
 
-What kind of action will you capture
+The main benefits to this technique are that your motion sensor can trigger your camera for most of the day and that you can get much closer to your subjects. 
 
-The Strengths of this technique
+At the end of the day, I will have anywhere from 4000 to 8000 photots to sift through and the majority of them won't even have the subject in view. Of those thousands, there will be a couple that will make sifting through all of them worth your while
 
-The drawbacks
-
-Examples of what I have captured
-
+{% include carousel.html height="66" unit="%" duration="7" number="2" %}
 
