@@ -10,4 +10,19 @@ menus:
 ---
 When I am at work on a bright sunny day, there is nothing I'd rather be doing than sitting outside and taking pictures. Luckily, with the power of technology I can do both!
 
-![Image]({{ site.baseurl }}/Media/Bluejay1.jpg)
+![Image]({{ site.baseurl }}/Assets/CamtraptionsSensor.jpg)
+
+Above is a motion activated camera trigger from camtraptions. 
+Camptrapions Motion Sensor
+
+How it works
+
+What kind of action will you capture
+
+The Strengths of this technique
+
+The drawbacks
+
+Examples of what I have captured
+
+
