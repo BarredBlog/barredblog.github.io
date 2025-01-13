@@ -23,7 +23,8 @@ The concept of what we are doing here is simple. Set up your motion sensor in a 
 
 The main benefits to this technique are that your motion sensor can trigger your camera for most of the day and that you can get much closer to your subjects. 
 
-At the end of the day, I will have anywhere from 4000 to 8000 photots to sift through and the majority of them won't even have the subject in view. Of those thousands, there will be a couple that will make sifting through all of them worth your while
+At the end of the day, I will have anywhere from 4000 to 8000 photots to sift through and the majority of them won't even have the subject in view. The is partly due to limitations of the sensor(it is going to cover a wider area than what you are capturing) and false positives caused by movement in the wind. Of those thousands, there will be a couple that will make sifting through all of them worth your while
 
 {% include carousel.html height="66" unit="%" duration="7" number="2" %}
 
+Just make sure that you check your local forcase so your equipment doesn't get messed up in the rain!
