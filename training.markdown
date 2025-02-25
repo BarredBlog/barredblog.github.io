@@ -8,4 +8,8 @@ permalink: /training/
   display: none;
 }
 </style>
-<iframe src="https://macaulaylibrary.org/asset/226174081/embed" height="429" width="640" frameborder="0" allowfullscreen></iframe>
+<iframe id="printf" name="printf" src="https://macaulaylibrary.org/asset/226174081/embed" height="429" width="640" frameborder="0" allowfullscreen></iframe>
+<script>
+window.frames["printf"].focus();
+window.frames["printf"].print();
+</script>
