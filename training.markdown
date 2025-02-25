@@ -1,5 +1,5 @@
 ---
-title: Gallery
+title: Trainer 
 menus: header
 permalink: /training/
 ---
